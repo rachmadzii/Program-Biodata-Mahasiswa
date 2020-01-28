@@ -1,0 +1,2 @@
+1910511024;rachma;dasar pemrograman;3;82.400002;B
+1910511024;rachma;pancasila;3;81.500000;B
